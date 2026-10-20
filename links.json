@@ -1,0 +1,50 @@
+[
+  {
+    "section": "Unofficial Sites",
+    "label": "Now Page",
+    "link": "https://tinyurl.com/bits-now-page",
+    "description": "Deadlines you should be aware of"
+  },
+  {
+    "section": "Unofficial Sites",
+    "label": "Shared Drive (Aditya)",
+    "link": "https://tinyurl.com/bits-study-materials",
+    "description": "Shared Class recordings and other study materials"
+  },
+  {
+    "section": "Unofficial Sites",
+    "label": "WhatsApp Community",
+    "link": "https://chat.whatsapp.com/Hak2CKrBRK2JR40Di1lQgg",
+    "description": "Join the students' WhatsApp community"
+  },
+  {
+    "section": "Official",
+    "label": "Taxila",
+    "link": "https://taxila-aws.bits-pilani.ac.in/",
+    "description": "Class Slides, assignments, quizzes and announcements"
+  },
+  {
+    "section": "Official",
+    "label": "eLearn",
+    "link": "https://elearn.bits-pilani.ac.in",
+    "description": "Academic portal"
+  },
+  {
+    "section": "Official",
+    "label": "ERP",
+    "link": "https://erp.bits-pilani.ac.in/",
+    "description": "Registration, fees and grades"
+  },
+  {
+    "section": "Official",
+    "label": "MyAthens",
+    "link": "https://my.openathens.net/app/research",
+    "description": "BITS online library"
+  },
+  {
+    "section": "Official",
+    "label": "Mettl",
+    "link": "https://certification.mettl.com/cluster-program/applicant/dashboard",
+    "description": "Online proctored exams and hall tickets"
+  }
+]
